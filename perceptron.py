@@ -65,5 +65,5 @@ print([0,0], "*", Perceptron.predict([1,0]))
 print([0,0], "*", Perceptron.predict([1,1]))
 
         
-        
+        hi
                                                                                                                                                                                                                                                                                             
